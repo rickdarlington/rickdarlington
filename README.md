@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rickdarlington
+- 👀 I’m interested in Network Game Programming, Algorithmic Trading
+- 📫 How to reach me: all my accounts are on rickdarlington.com
